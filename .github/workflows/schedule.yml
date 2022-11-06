@@ -12,6 +12,6 @@ jobs:
       - name: Seonghun's Github Routine
         uses: maxam2017/productive-box@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: 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
           GIST_ID: 9842e074b8ee46aef76fd0d493bae0ed
           TIMEZONE: Asia/Seoul
